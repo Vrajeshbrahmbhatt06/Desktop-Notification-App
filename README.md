@@ -33,12 +33,12 @@ pip install pillow
 
 App GUI
 
-![App Screenshot](https://ibb.co/NYkfTVc)
+![App Screenshot]([https://ibb.co/NYkfTVc](https://imgtr.ee/images/2023/04/10/nQq6M.png))
 
 
 Desktop Notification
 
-![App Screenshot](https://ibb.co/FhsmH0S)
+![App Screenshot](https://imgtr.ee/images/2023/04/10/nQ9u4.png)
 
 
 ## References
